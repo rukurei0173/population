@@ -6,6 +6,6 @@ npm install
 そのあとに
 
 ```sh
-npm rum sever
+npm rum serve
 ```
 でサーバーを立ち上げてブラウザで`localhost:8080`を開いてください。
